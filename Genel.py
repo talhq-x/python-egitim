@@ -33,5 +33,5 @@ while True :
                             elif Port > 1000 and Port < 5000:
                                 print("Zafiyet yok.")
                             else:
-                                print("Bağlantı koptu.")
+                                print("Bağlantı.")
             
